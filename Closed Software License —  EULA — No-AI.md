@@ -21,6 +21,15 @@ html:
 
 ---
 
+NOTICE.txt
+
+```txt
+property of:
+<YOURNAME - YOURSURNAME - DATA - VAT - EXTRA FOR CONTACTS>
+```
+
+---
+
 EULA.md or EULA.txt
 
 ```md
