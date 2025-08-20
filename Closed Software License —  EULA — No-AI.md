@@ -7,6 +7,10 @@ set online in your sute a robot.txt:
 ```txt
   User-agent: *
   Disallow: /   # or narrow paths for code/docs
+  User-agent: GPTBot
+  Disallow: /
+  User-agent: Google-Extended
+  Disallow: /
 ```
 
 html:
