@@ -25,9 +25,9 @@
 <sub>It's outright exploitation, where we are treated as “data for analysis” without seeing how much passion and hours of our lives are spent developing our libraries and frameworks (indie and otherwise).</sub>
 <sub>It's unspeakable, someone has to do something... In the meantime, I propose these licenses.</sub>
 <sub>Please note: the licenses are provided free of charge and without any legal responsibility regarding their use. Bring the texts to the attention of your lawyers and have them approve their use.</sub>
-<br>
+<br><br>
 <sub>What we want? a honest choose, fee, respect.</sub>
-</br>
+</br><br>
 <sub>Feedback is welcome, follow or star.
 <sub>@intotheglitched</sub>
 
