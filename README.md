@@ -19,7 +19,7 @@
 ### A simle message from the Author:
 
 <sub>I see companies using our developments without paying us, without giving us any credit or honor.</sub>
-<sub>This now includes GitHub, which has moved to the AI branch, and (not official) GitLab.</sub>
+<sub>This now includes GitHub, which has moved to the AI branch, and (not officially - [read this](https://forum.gitlab.com/t/can-i-opt-out-from-my-code-being-used-as-training-data-in-gitlab-duo/96563/3#:~:text=open%20source%20repositories%2C-,it%20is%20possible%20for%20AI%20vendors%20unrelated%20to%20GitLab%20to%20scrape%20your%20repository%20and%20train%20with%20it,-.%20However%20if) ) GitLab.</sub>
 <sub>If github don't change policy i try other services</sub>
 <sub>Many people don't notice, but everything you do is being stolen without consent.</sub>
 <sub>It's outright exploitation, where we are treated as “data for analysis” without seeing how much passion and hours of our lives are spent developing our libraries and frameworks (indie and otherwise).</sub>
