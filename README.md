@@ -1,6 +1,20 @@
+
+### A simle message from the Author:
+
+<sub>I see companies using our developments without paying us, without giving us any credit or honor.</sub>
+<sub>This now includes GitHub, which has moved to the AI branch, and (not official) GitLab.</sub>
+<sub>If github don't change policy i try other services, like https://about.gitea.com/</sub>
+<sub>Many people don't notice, but everything you do is being stolen without consent.</sub>
+<sub>It's outright exploitation, where we are treated as “data for analysis” without seeing how much passion and hours of our lives are spent developing our libraries and frameworks (indie and otherwise).</sub>
+<sub>It's unspeakable, someone has to do something... In the meantime, I propose these licenses.</sub>
+<sub>Please note: the licenses are provided free of charge and without any legal responsibility regarding their use. Bring the texts to the attention of your lawyers and have them approve their use.</sub>
+<sub>Feedback is welcome, follow or star.
+<sub>@intotheglitched</sub>
+
+---
+
 # alternative licence
 
-Distribution of licences:
 
 - CLOSE SOURCE PRIVATE:
   - [Closed Software License —  EULA — No-AI](https://github.com/intotheglitched/licence-vs-ai/blob/main/Closed%20Software%20License%20%E2%80%94%20%20EULA%20%E2%80%94%20No-AI.md)<br>_This is good for complety closed project, the private no Ai_
