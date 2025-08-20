@@ -11,6 +11,8 @@
 <sub>Feedback is welcome, follow or star.
 <sub>@intotheglitched</sub>
 
+_You can message me for a possible collaboration in this topic_
+
 ---
 
 # alternative licence
