@@ -1,8 +1,7 @@
 
 
 
-# alternative licence
-
+# <img width="35px" src=https://raw.githubusercontent.com/intotheglitched/alternative-software-licenses/refs/heads/main/images/privacy-policy.png> FREE ALTERNATIVE LICENCES FOR SOFTWARE DISTRIBUTION
 
 - CLOSE SOURCE PRIVATE:
   - [Closed Software License —  EULA — No-AI](https://github.com/intotheglitched/licence-vs-ai/blob/main/Closed%20Software%20License%20%E2%80%94%20%20EULA%20%E2%80%94%20No-AI.md)<br>_This is good for complety closed project, the private no Ai_
