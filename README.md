@@ -1,4 +1,6 @@
 
+
+
 # alternative licence
 
 
@@ -31,7 +33,7 @@
 <sub>Feedback is welcome, follow or star.
 <sub>@intotheglitched</sub>
 
-_You can message me for a possible collaboration in this topic_
+_**You can message me for a possible collaboration on this topic, help me build a license capable of regulating the work we do!**_
 
 
 ### Current situation (20/08/2025):
